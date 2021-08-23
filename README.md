@@ -2,7 +2,6 @@
 
 - 🤓 I’m currently learning flutter and java
 - 📧 How to reach me: dutra.otavio@gmail.com
-- 👨‍💻 Pronouns: he/him
 - 😅 Fun fact: i was a professional poker player
 
 ---
