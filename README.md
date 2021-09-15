@@ -1,6 +1,6 @@
 ## WHATS POPPIN?
 
-- 🤓 I’m currently learning flutter and java
+- 🤓 I’m currently learning Flutter and Java
 - 📧 How to reach me: dutra.otavio@gmail.com
 - 😅 Fun fact: i was a professional poker player
 
