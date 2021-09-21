@@ -1,6 +1,6 @@
 ## WHATS POPPIN?
 
-- 🤓 I’m currently learning Flutter and Java
+- 🤓 I’m currently studying to become a Android Mobile Dev
 - 📧 How to reach me: dutra.otavio@gmail.com
 - 😅 Fun fact: i was a professional poker player
 
