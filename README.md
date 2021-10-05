@@ -2,7 +2,7 @@
 
 <h3 align="center"> Meu nome é Otávio, 29 anos, estudante de ADS, amanete da tecnologia e disposto a ajudar a todos. </h3>
 
-<p align="center"> No momento estou fazendo bootcamp de Java, porém estudando Android em paralelo pois quero seguir para a área de mobile. Já fui jogador profissional de poker, mas voltei pra vida de programador pois é o que me faz feliz de verdade (e um pouco de estresse 😂). </p>
+<p align="center"> No momento estou fazendo bootcamp de Java, porém estudando Android em paralelo pois quero seguir para a área de mobile. Já fui jogador profissional de poker, mas voltei pra vida de programador pois é o que me faz feliz de verdade (e um pouco P#%$ 😂). </p>
 
 ---
 
