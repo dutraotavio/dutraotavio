@@ -4,7 +4,7 @@ My name is Otávio, I'm from Brazil, and I have a degree in Systems Analysis and
 
 ### 🚀 Skills  
 - Kotlin  
-- Android Studio  
+- Room  
 - Git & Version Control  
 - Agile Methodologies  
 
