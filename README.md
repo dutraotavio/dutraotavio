@@ -6,7 +6,6 @@ My name is Otávio, I'm from Brazil, and I have a degree in Systems Analysis and
 - Kotlin  
 - Room  
 - Git & Version Control  
-- Agile Methodologies  
 
 ### 🌱 What I'm up to  
 - Developing Android projects using Kotlin  
